@@ -15,7 +15,7 @@ make directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+indicates the beginning and end of an html document
 ```
 
 **4.** What does `HTML` stand for?
@@ -27,7 +27,7 @@ hypertext markup language
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+cascading style sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,7 +38,7 @@ hypertext markup language
 ```
 <!-- enter you answer in the space below -->
 ```
-
+selector, property, value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
